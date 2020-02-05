@@ -7,7 +7,7 @@
 body {
     font-family: sans-serif;
     font-weight: normal;
-    background: linear-gradient(to right, #00aaff, #00ff6c);
+    background: linear-gradient(to right, #ff9900, #fffb00);
 }
 
 .calculator-grid {
@@ -24,11 +24,11 @@ body {
     font-size: 2rem;
     border: 1px solid #fff;
     outline: none;
-    background-color: rgba(255, 255, 255, 0.75);
+    background-color: rgba(255, 255, 255, 1);
 }
 
 .calculator-grid > button:hover {
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(255, 255, 255, 0.8);
 }
 
 .span-two {
